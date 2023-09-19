@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-#-I'm currently a freshman at Bilkent University
+-I'm currently a freshman at Bilkent University
 
-#-I'm studying Computer Science
+-I'm studying Computer Science
 
-#-I love sports!
+-I love sports!
 <!--
 **AtahanAlp/AtahanAlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
