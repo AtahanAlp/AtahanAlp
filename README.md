@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📚 I'm currently a freshman at Bilkent University.
+- 📚 I'm currently an undergraduate student at Bilkent University.
 
 - 💻 I'm studying Computer Science.
 
